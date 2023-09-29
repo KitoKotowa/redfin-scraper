@@ -1,1 +1,2 @@
-# A simple scraper for Redfin - A real estate website
+# Redfin scraper
+A simple scraper for Redfin - A real estate website
